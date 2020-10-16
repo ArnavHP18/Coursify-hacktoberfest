@@ -628,5 +628,13 @@ let data = [
   description:'Baisc concepts related to cloud services including containers; VMs; public, private, hybrib cloud; microservices; DevOps; etc',
   image: 'Cloud.png',
   tags:['cloud', 'containerization', 'virtualization', 'cloud services']
+},
+{
+  name:'React Tutorial for Beginners',
+  instructor: 'Mosh Hamedani',
+  url:'https://www.youtube.com/watch?v=Ke90Tje7VS0',
+  description:'Basic concepts of ReactJS',
+  image: '',
+  tags:['ReactJS', 'Framework','Frontend']
 }
 ];
